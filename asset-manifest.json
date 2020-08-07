@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/salary-converter/static/css/main.fe0651be.chunk.css",
+    "main.js": "/salary-converter/static/js/main.01478fea.chunk.js",
+    "main.js.map": "/salary-converter/static/js/main.01478fea.chunk.js.map",
+    "runtime-main.js": "/salary-converter/static/js/runtime-main.8446e875.js",
+    "runtime-main.js.map": "/salary-converter/static/js/runtime-main.8446e875.js.map",
+    "static/js/2.9368ddfb.chunk.js": "/salary-converter/static/js/2.9368ddfb.chunk.js",
+    "static/js/2.9368ddfb.chunk.js.map": "/salary-converter/static/js/2.9368ddfb.chunk.js.map",
+    "index.html": "/salary-converter/index.html",
+    "precache-manifest.b34e8ef201eb8d711a0db6f2b2ff532f.js": "/salary-converter/precache-manifest.b34e8ef201eb8d711a0db6f2b2ff532f.js",
+    "service-worker.js": "/salary-converter/service-worker.js",
+    "static/css/main.fe0651be.chunk.css.map": "/salary-converter/static/css/main.fe0651be.chunk.css.map",
+    "static/js/2.9368ddfb.chunk.js.LICENSE.txt": "/salary-converter/static/js/2.9368ddfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8446e875.js",
+    "static/js/2.9368ddfb.chunk.js",
+    "static/css/main.fe0651be.chunk.css",
+    "static/js/main.01478fea.chunk.js"
+  ]
+}
