@@ -65,10 +65,12 @@ class App extends Component {
                                             </button>
                                         </div>
                                     </form>
-                                    <div className="card-title">Result:</div>
+                                    <div className="card-title">
+                                        <b>Result:</b>
+                                    </div>
                                     {this.state.items.map((item) => (
                                         <div key="1" className="card-text">
-                                            <b>KB</b> = {item.KB}
+                                            KB = {item.KB}
                                             <br />
                                             MB = {item.MB}
                                         </div>
