@@ -68,7 +68,7 @@ class App extends Component {
                                     <div className="card-title">Result:</div>
                                     {this.state.items.map((item) => (
                                         <div key="1" className="card-text">
-                                            KB = {item.KB}
+                                            <b>KB</b> = {item.KB}
                                             <br />
                                             MB = {item.MB}
                                         </div>
